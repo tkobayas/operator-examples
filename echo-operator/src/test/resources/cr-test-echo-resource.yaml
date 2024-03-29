@@ -1,0 +1,6 @@
+apiVersion: example.example.com/v1
+kind: EchoResource
+metadata:
+  name: test-echo-resource
+spec:
+  inputMessage: "Hello from test-echo-resource"
